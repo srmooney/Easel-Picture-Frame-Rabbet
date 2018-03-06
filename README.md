@@ -1,6 +1,6 @@
 # Easel-Picture-Frame-Rabbet
 
-An app for Inventables Easel
+An app for Inventables Easel (x-carve) that creates the rabbet and cutout needed to for a picture frame.
 
 ## Installation
 1. Create a new app in Easel.
